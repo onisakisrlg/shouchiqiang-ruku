@@ -1,0 +1,7 @@
+{
+  "name": "Industrial MID Scanner",
+  "description": "High-performance industrial pad application for MID scanning and manual entry with dual-trigger input logic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
